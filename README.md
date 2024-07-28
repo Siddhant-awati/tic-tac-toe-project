@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## To Run the project
 
+- git clone https://github.com/Siddhant-awati/tic-tac-toe-project.git
 - cd tic-tac-toe-project
-
 - npm install
 - npm run dev
